@@ -1,5 +1,5 @@
 '''
-QUESTOIN LINK: https://leetcode.com/problems/count-and-say/
+Question link: https://leetcode.com/problems/count-and-say/
 
 To determine how you "say" a digit string, split it into the minimal number of groups
 so that each group is a contiguous section all of the same character. Then for each group,
