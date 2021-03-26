@@ -17,10 +17,6 @@ Both the left and right subtrees must also be binary search trees.
 #         self.left = left
 #         self.right = right
 class Solution:
-    def __init__(self):
-        self.mini=float('-inf')
-        self.maxi=float('inf')
-        self.result=True
     def isValidBST(self, root: TreeNode) -> bool:
         output=[]
         def inNode(root,output):
